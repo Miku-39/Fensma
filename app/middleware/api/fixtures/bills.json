@@ -1,0 +1,25 @@
+{
+  data: [{
+    id: 1,
+    status: 'Выставлен', 
+    object: 'Гражданская', 
+    customer: 'Вента',
+    sum: '9 394.00',
+    fileUrl: 'http://www.pdf995.com/samples/pdf.pdf',
+    date: '25.07.2017',
+    curator: 'Черных Василий',
+    billNumber: '239',
+    company: 'ООО "КАПИТАЛСТРОЙ"'
+  }, {
+    id: 2,
+    status: 'Выставлен', 
+    object: 'Гражданская', 
+    customer: 'Вента',
+    sum: '9 394.00',
+    fileUrl: 'http://www.pdf995.com/samples/pdf.pdf',
+    date: '25.07.2017',
+    curator: 'Черных Василий',
+    billNumber: '239',
+    company: 'ООО "КАПИТАЛСТРОЙ"'
+  }]
+}
